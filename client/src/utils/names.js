@@ -1,0 +1,1 @@
+export const mentorName = (m) => (m ? (m.deleted ? `${m.name} (removed)` : m.name) : 'Former mentor');
