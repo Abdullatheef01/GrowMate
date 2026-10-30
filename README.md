@@ -9,7 +9,7 @@
 **A student mentoring platform for colleges.**
 Counselling records, CIAT and model exam scores, semester results and mentor allocation, in one place.
 
-[Live demo](https://grow-matee.vercel.app) &nbsp;•&nbsp; [Features](#features) &nbsp;•&nbsp; [Tech stack](#tech-stack) &nbsp;•&nbsp; [Getting started](#getting-started) &nbsp;•&nbsp; [Deployment](#deployment)
+[Live demo](https://grow-mate-dun.vercel.app/) &nbsp;•&nbsp; [Features](#features) &nbsp;•&nbsp; [Tech stack](#tech-stack) &nbsp;•&nbsp; [Getting started](#getting-started) &nbsp;•&nbsp; [Deployment](#deployment)
 
 ![React](https://img.shields.io/badge/React-18-6d23f0?style=flat-square&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-18%2B-6d23f0?style=flat-square&logo=nodedotjs&logoColor=white)
